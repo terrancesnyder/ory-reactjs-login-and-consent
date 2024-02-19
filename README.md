@@ -13,5 +13,9 @@ This isn't ready for production or is production quality. Just initial POC work.
 
 ## Getting Started
 
+Configure your HYDRA and KRATOS endpoints in the run.sh command.
+
+```
 npm install
 ./run.sh
+```
