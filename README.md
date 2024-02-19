@@ -10,3 +10,8 @@ This project gives a boilerplate starter for implementing an ORY hydra and krato
 ## Disclaimer
 
 This isn't ready for production or is production quality. Just initial POC work.
+
+## Getting Started
+
+npm install
+./run.sh
